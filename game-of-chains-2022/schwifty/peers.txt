@@ -1,7 +1,7 @@
 #Peers for the schwifty consumer chain
 
 # SG-1
-dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657
+24b117351988dfada39e317c0ac3b79cedea8847@65.109.90.176:23657
 
 
 # Lavenderfive
